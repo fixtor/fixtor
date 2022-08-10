@@ -5,4 +5,4 @@
 
 <h4 align="center">░▒▓█  🅲# █▓▒░</h4>
 
-<h5 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fixtor&theme=solarized_dark)</h5>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fixtor&theme=solarized_dark)
