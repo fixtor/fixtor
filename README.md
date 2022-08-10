@@ -3,6 +3,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)]
 <h3 align="center">Computer science student, from Russia </h3>
 
-<h4 align="center">░▒▓█  🅲# █▓▒░</h4>
-
-           ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fixtor&theme=solarized_dark)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fixtor&theme=solarized_dark)
