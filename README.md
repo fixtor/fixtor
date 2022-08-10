@@ -4,3 +4,5 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fixtor&theme=solarized_dark)
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
